@@ -13,8 +13,8 @@ completed all of the requirements listed [here](../README.md#requirements).
 - [Navigate to the data source settings page](#navigate-to-the-data-source-settings-page)
 - [Click "Add a Data Source"](#click-add-a-data-source)
 - [Select dashDB as the data source type](#select-dashdb-as-the-data-source-type)
-- [Enter your connection details](#enter-your-connection-details-click-connect-and-wait-for-the-success-notification)
-- [Wait for success notification and check the Schema tab](#check-the-schema-tab-and-make-sure-all-tables-have-been-imported)
+- [Enter your connection details, click "Connect" and wait for the success notification](#enter-your-connection-details-click-connect-and-wait-for-the-success-notification)
+- [Check the Schema tab and make sure all tables have been imported](#check-the-schema-tab-and-make-sure-all-tables-have-been-imported)
 
 ### Navigate to the data source settings page
 ![Navigate to the data source settings page](./img/00-settings-dropdown.png)
