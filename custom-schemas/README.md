@@ -12,7 +12,7 @@ of the tables to do their job. To address this issue we will create two team-spe
                       include a custom column that converts an amount stored in Stripe as cents to
                       dollars.
 - **dashDB Sales:** This will limit access to just the Salesforce data. For convenience, it will
-                    also include a custom table that limits access further to just
+                    also include a custom table that shows just open opportunities.
 
 Before starting this tutorial, make sure you have completed the
 [Creating a Chart tutorial](../creating-a-chart/README.md) in order to fully understand the value of
