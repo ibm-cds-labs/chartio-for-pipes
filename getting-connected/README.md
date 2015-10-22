@@ -4,7 +4,8 @@
 ## Overview
 This tutorial will walk you through the steps necessary to connect Chartio to dashDB and import
 metadata about all of the available tables. Before starting this tutorial, make sure you have
-completed all of the requirements listed [here](../README.md#requirements).
+completed all of the requirements listed [here](../README.md#requirements). Don't hesitate to
+contact [support](../support/README.md) if you run into any issues!
 
 
 ## Tutorial
@@ -32,7 +33,3 @@ completed all of the requirements listed [here](../README.md#requirements).
 
 ### Check the Schema tab and make sure all tables have been imported
 ![Wait for success notification and check the Schema tab](./img/06-schema.png)
-
-
-## Support
-See [support](../support/README.md) if you run into any issues!
