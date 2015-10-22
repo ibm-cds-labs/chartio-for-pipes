@@ -35,5 +35,4 @@ completed all of the requirements listed [here](../README.md#requirements).
 
 
 ## Support
-If you run into any issues along the way, don't hesitate to contact support!
-![Contact support](./img/07-support.png)
+See [support](../support/README.md) if you run into any issues!
