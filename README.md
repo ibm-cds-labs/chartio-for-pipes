@@ -14,11 +14,11 @@ Salesforce and Stripe data together in no time!
 
 ## Table of Contents
 
- #  | Tutorial                                               | Description
---- | ------------------------------------------------------ | ------------
-00  | [getting-connected](./getting-connected/README.md)     | **Getting Connected:** Get started by connecting Chartio to dashDB
-01  | [creating-a-chart](./creating-a-chart/README.md)       | **Creating a Chart:** Create your first chart and start analyzing Stripe customer delinquincy in minutes
-02  | [custom-schemas](./custom-schemas/README.md)           | **Custom Schemas:** Improve the productivity of your Sales and Finance teams with team-specific custom schemas
-03  | [layers-and-blending](./layers-and-blending/README.md) | **Joining and Merging Data:** Join Salesforce and Stripe data to explore trends and perform deeper analysis
-04  | [prebuilt-dashboards](./prebuilt-dashboards/README.md) | **Prebuilt Dashboards:** Jumpstart the discovery process with prebuilt dashboards for Salesforce and Stripe
-05  | [learn-more](./learn-more/README.md)                   | **Learn More:** Learn how to go further with dashDB and Chartio
+ #  | Tutorial                                                         | Description
+--- | ---------------------------------------------------------------- | ------------
+00  | [getting-connected](./getting-connected/README.md)               | **Getting Connected:** Get started by connecting Chartio to dashDB
+01  | [creating-a-chart](./creating-a-chart/README.md)                 | **Creating a Chart:** Create your first chart and start analyzing Stripe customer delinquincy in minutes
+02  | [custom-schemas](./custom-schemas/README.md)                     | **Custom Schemas:** Improve the productivity of your Sales and Finance teams with team-specific custom schemas
+03  | [joining-and-merging-data](./joining-and-merging-data/README.md) | **Joining and Merging Data:** Join Salesforce and Stripe data to explore trends and perform deeper analysis
+04  | [prebuilt-dashboards](./prebuilt-dashboards/README.md)           | **Prebuilt Dashboards:** Jumpstart the discovery process with prebuilt dashboards for Salesforce and Stripe
+05  | [learn-more](./learn-more/README.md)                             | **Learn More:** Learn how to go further with dashDB and Chartio
