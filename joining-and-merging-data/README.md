@@ -29,6 +29,8 @@ Before starting this tutorial, make sure you have completed the
 ### Steps
 - [Setup a foreign key from `St Customer.Email` to `Sf Contact.Email` in dashDB Admin](#setup-a-foreign-key-from-st-customeremail-to-sf-contactemail-in-dashdb-admin)
 - [Edit the chart from the Creating a Chart tutorial and add `Sf Contact.Phone`](#edit-the-chart-from-the-creating-a-chart-tutorial-and-add-sf-contactphone)
+- [Clone the chart and delete `Sf Contact.Phone` in preparation for demonstrating Layers](#)
+- [Add a Layer and add `Sf Contact.Email` and `Sf Contact.Phone` from dashDB Sales](#)
 
 ### Setup a foreign key from `St Customer.Email` to `Sf Contact.Email` in dashDB Admin
 ![Setup a foreign key](./img/00-foreign-key.png)
@@ -37,3 +39,14 @@ Before starting this tutorial, make sure you have completed the
 ![My first dashboard](./img/01-dashdb-admin-dashboard.png)
 ![Edit the delinquency chart](./img/02-dashdb-admin-edit.png)
 ![Add `Sf Contact.Phone`](./img/03-dashdb-admin-phone.png)
+
+### Clone the chart and delete `Sf Contact.Phone` in preparation for demonstrating Layers
+![Clone](./img/04-clone.png)
+![Save](./img/05-save.png)
+![Edit](./img/06-edit.png)
+![Delete](./img/07-delete.png)
+
+### Add a Layer and add `Sf Contact.Email` and `Sf Contact.Phone` from dashDB Sales
+![Clone](./img/08-add-layer.png)
+![Save](./img/09-add-columns.png)
+![Edit](./img/10-merge.png)
