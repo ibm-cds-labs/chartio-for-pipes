@@ -1,5 +1,7 @@
 # chartio-for-pipes
 
+:no_entry_sign: This project is no longer maintained.
+
 ## Overview
 This repo contains a set of tutorials that will get you up and running with
 [Simple Data Pipe](https://developer.ibm.com/clouddataservices/simple-data-pipe/),
